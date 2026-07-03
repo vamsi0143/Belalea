@@ -5,7 +5,7 @@ import Navbar from "../components/Navbar/Navbar";
 import Newsletter from "../components/Newsletter/Newsletter";
 import Footer from "../components/Footer/Footer";
 
-import banner from "../assets/images/banner.jpeg";
+//import banner from "../assets/images/banner.jpeg";
 import notFound from "../assets/images/404.png";
 import { FaArrowRight } from "react-icons/fa";
 
