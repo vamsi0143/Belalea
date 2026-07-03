@@ -7,7 +7,7 @@ import ShopSingle from "../pages/ShopSingle";
 import Blog from "../pages/Blog";
 import BlogSingle from "../pages/BlogSingle";
 import Contact from "../pages/Contact";
-import NotFound from "../pages/NotFound";
+import NotFound from "../pages/notFound";
 
 export default function AppRoutes() {
     return (
