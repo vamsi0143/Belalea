@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar/Navbar";
 import Newsletter from "../components/Newsletter/Newsletter";
 import Footer from "../components/Footer/Footer";
 
-import banner from "../assets/images/banner.jpg";
+import banner from "../assets/images/banner.png";
 import flour from "../assets/images/products6.jpeg";
 
 import products from "../data/products";
